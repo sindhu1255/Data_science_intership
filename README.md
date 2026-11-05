@@ -27,3 +27,41 @@ Files
 What I Learned
 
 I learned how to use Python variables, "input()", "print()", and f-strings to create a personalized welcome message.
+
+
+
+Task 2: Student Grade Calculator
+
+Description
+
+This project is a Student Grade Calculator developed using Python. It calculates the total marks, percentage, and grade of a student based on the marks entered.
+
+Features
+
+- Accepts student marks.
+- Calculates total marks.
+- Calculates percentage.
+- Displays the final grade.
+
+Technology Used
+
+- Python
+
+File Name
+
+- grade_calculator.py
+
+How to Run
+
+1. Open the Python file.
+2. Enter the student's marks.
+3. Run the program.
+4. View the total marks, percentage, and grade.
+
+Output
+
+The program displays the student's total marks, percentage, and grade.
+
+Status
+
+Task 2 Completed.
