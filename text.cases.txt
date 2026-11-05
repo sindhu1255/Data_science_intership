@@ -1,1 +1,51 @@
+STUDENT GRADE CALCULATOR - TEST CASES
 
+Test Case 1:
+Student Name: Priya
+Marks: 95
+Expected Output: Grade A
+Status: Pass
+
+Test Case 2:
+Student Name: Rahul
+Marks: 85
+Expected Output: Grade B
+Status: Pass
+
+Test Case 3:
+Student Name: Amit
+Marks: 75
+Expected Output: Grade C
+Status: Pass
+
+Test Case 4:
+Student Name: Neha
+Marks: 65
+Expected Output: Grade D
+Status: Pass
+
+Test Case 5:
+Student Name: Ravi
+Marks: 40
+Expected Output: Grade F
+Status: Pass
+
+Test Case 6:
+Marks: 110
+Expected Output: Invalid marks message
+Status: Pass
+
+Test Case 7:
+Marks: abc
+Expected Output: Invalid number message
+Status: Pass
+
+Test Case 8:
+Marks: 0
+Expected Output: Grade F
+Status: Pass
+
+Test Case 9:
+Marks: 100
+Expected Output: Grade A
+Status: Pass
