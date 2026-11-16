@@ -64,4 +64,40 @@ The program displays the student's total marks, percentage, and grade.
 
 Status
 
-Task 2 Completed.
+Task 2 Completed
+task 3:
+Sales Data Analysis
+
+Project Overview
+
+This project focuses on analyzing a sales dataset using Python and Pandas. The main goal is to understand sales performance and identify the best-selling product.
+
+Objectives
+
+- Analyze sales data.
+- Clean missing and duplicate values.
+- Calculate total revenue and average sales.
+- Find highest and lowest sales.
+- Identify the best-selling product.
+
+Tools and Technologies
+
+- Python
+- Pandas
+- Google Colab
+- GitHub
+
+Dataset Information
+
+- Dataset Name: sales_data.csv
+- Total Rows: 100
+- Total Columns: 7
+- Missing Values: 0
+
+Project Files
+
+- "sales_analysis.py" – Python analysis code.
+- "sales_data.csv" – Sales dataset.
+- "analysis_report.md" – Analysis report.
+- "requirements.txt" – Required Python library.
+- `
